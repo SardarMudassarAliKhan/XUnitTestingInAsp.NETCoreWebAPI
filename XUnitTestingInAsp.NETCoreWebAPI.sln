@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestingInAsp.NETCoreWebAPI", "XUnitTestingInAsp.NETCoreWebAPI.csproj", "{DEC69E22-B0E3-4CCB-9EA9-6E6C8A4EEF7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XunitTestSuite", "..\XunitTestSuite\XunitTestSuite.csproj", "{1D65F2CA-5349-4B51-A817-437DBB8FD766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC69E22-B0E3-4CCB-9EA9-6E6C8A4EEF7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC69E22-B0E3-4CCB-9EA9-6E6C8A4EEF7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC69E22-B0E3-4CCB-9EA9-6E6C8A4EEF7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC69E22-B0E3-4CCB-9EA9-6E6C8A4EEF7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D65F2CA-5349-4B51-A817-437DBB8FD766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D65F2CA-5349-4B51-A817-437DBB8FD766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D65F2CA-5349-4B51-A817-437DBB8FD766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D65F2CA-5349-4B51-A817-437DBB8FD766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79BA2C26-647E-4C42-863B-4F63136F25CE}
+	EndGlobalSection
+EndGlobal
